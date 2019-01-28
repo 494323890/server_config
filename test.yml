@@ -6,7 +6,7 @@ server:
   port: 8080
 spring:
   application:
-    name: user-service
+    name: user-service666666666666666666666666666
   datasource:
     dbcp:
       test-while-idle: true
